@@ -1,0 +1,2 @@
+# SiameseNN_implentation_Omnilgot
+Siamese neural network is implemented and tested using the omniglot dataset.
