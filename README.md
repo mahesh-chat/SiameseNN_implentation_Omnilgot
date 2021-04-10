@@ -17,3 +17,11 @@ SNN architecture for given probem :-
 ![si](https://user-images.githubusercontent.com/46081668/114278798-090ef080-9a4f-11eb-9d82-a9b5fee3293a.png)
 
 
+Training dataset is :- 
+![train](https://user-images.githubusercontent.com/46081668/114278937-a36f3400-9a4f-11eb-9c12-a28b4c103d2e.jpeg)
+
+Testing dataset is :-
+![test](https://user-images.githubusercontent.com/46081668/114278946-ae29c900-9a4f-11eb-82a7-f22a8ff3bac1.jpeg)
+
+Finally , performance of the SNN based model is :- 
+![result](https://user-images.githubusercontent.com/46081668/114278958-c26dc600-9a4f-11eb-92b7-c4331f309f4c.jpeg)
